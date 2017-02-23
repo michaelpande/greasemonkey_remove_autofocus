@@ -4,7 +4,7 @@
 // @author Michael Pande <github.com/michaelpande>
 // @description Makes vim keybindings work correctly on webpages with autofocus
 // @supportURL https://github.com/michaelpande/greasemonkey_remove_autofocus
-// @version 1.0.1
+// @version 1.0.2
 // @license MIT
 // @grant none
 // ==/UserScript==
